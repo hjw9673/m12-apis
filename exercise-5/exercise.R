@@ -12,6 +12,7 @@ GetReview <- function(movie) {
   # Note: the HTTR library will take care of spaces in the arguments
   # See the interactive console for more detail:https://developer.nytimes.com/movie_reviews_v2.json#/Console/GET/reviews/search.json
   
+  https://congress.api.sunlightfoundation.com/[method]
   
   # Request data using your search query
   
